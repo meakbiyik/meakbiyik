@@ -4,8 +4,6 @@
 	<a href="https://scholar.google.com/citations?user=pZ7AXAcAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Google Scholar"></a>
 </p>
 
----
-
 ### Hi there 👋
 
 - ✨ I am Eren, a master's student in Data Science, at ETH Zürich.
