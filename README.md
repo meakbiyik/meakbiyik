@@ -1,7 +1,7 @@
 <p align="center">
-	<a href="https://github.com/meakbiyik"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://github.com/meakbiyik"><img src="https://img.shields.io/badge/-Github?style=social&logo=github&label=Github" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/m-eren-akbiyik-2468aa6a"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://scholar.google.com/citations?user=pZ7AXAcAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Google Scholar"></a>
+	<a href="https://scholar.google.com/citations?user=pZ7AXAcAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google_Scholar?style=social&logo=google-scholar&label=Google%20Scholar" alt="Google Scholar"></a>
 </p>
 
 ### Hi there 👋
