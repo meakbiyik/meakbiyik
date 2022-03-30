@@ -15,5 +15,5 @@
 ---
 
 <p align="center">
-  I am open to any scientific collaborations  - hit me up at <code>eakbiyik at ethz ch</code>
+  👉 I am open to any scientific collaborations  - hit me up at <code>eakbiyik at ethz ch</code>
 </p>
