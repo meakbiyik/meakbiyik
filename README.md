@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-- ✨ I am Eren, Co-Founder and CEO of Lively, and a master's student in Data Science, at ETH Zürich.
+- ✨ I am Eren, Co-Founder and CEO of Lively, and a master's student in Data Science at ETH Zürich.
 - 🔭 Previously a software developer at IBM Germany, I work as a Research Assistant with [Prof. Ulrik Brandes](https://scholar.google.de/citations?user=fmmZrwgAAAAJ&hl=de) at [Social Networks Lab](https://sn.ethz.ch/).
 - 🌱 I am specializing in Machine Learning with a particular focus on Graph Neural Networks, Network Sciences and NLP.
 
