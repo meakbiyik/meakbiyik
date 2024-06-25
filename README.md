@@ -7,8 +7,8 @@
 
 ### Hi there 👋
 
-- ✨ I am Eren, Co-Founder and CEO of Showzone, with an M.Sc. in Data Science from ETH Zürich.
-- 🔭 Previously a software developer at IBM Germany, and a Research Assistant with [Prof. Ulrik Brandes](https://scholar.google.de/citations?user=fmmZrwgAAAAJ&hl=de) at [Social Networks Lab](https://sn.ethz.ch/).
+- ✨ I am Eren, CEO & AI Lead of Showzone, with an M.Sc. in Data Science from ETH Zürich.
+- 🔭 Previously a software engineer at IBM Germany, and a Research Assistant with [Prof. Ulrik Brandes](https://scholar.google.de/citations?user=fmmZrwgAAAAJ&hl=de) at [Social Networks Lab](https://sn.ethz.ch/).
 - 🌱 I specialize in Machine Learning with a particular focus on Computer Vision, Game Theory, and Graph Neural Networks.
 
 ---
